@@ -1,6 +1,7 @@
 # Hurtworld-ItemV2
 ---
 RUS
+
 ѕлагины, которые находились у мен€ в проекте, за исключением платных, которые кто-то покупал.
 Ќесколько плагинов в сыром/недоделанном в виде. ” кого ума хватит - доделает.
 ќтветственность за работу не несу, надеюсь у вас хватит мозгов посмотреть плагин перед установкой.
@@ -9,6 +10,7 @@ RUS
 
 ---
 ENG
+
 The plugins that I had in the project, with the exception of the paid ones that someone bought.
 Several plugins not completed. Complete it yourself.
 I am not responsible for the work plugins.
